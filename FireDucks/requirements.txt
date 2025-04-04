@@ -1,0 +1,5 @@
+numpy>=1.24.0
+pandas>=2.0.0
+polars>=1.26.0
+fireducks>=0.1.0
+psutil>=5.9.0
