@@ -108,11 +108,6 @@ Run the performance comparison:
 python performance_comparison.py
 ```
 
-Run the basic FireDucks test:
-```bash
-python fireducks_basic_test.py
-```
-
 ## Technical Details
 
 The benchmarks are conducted with the following specifications:
