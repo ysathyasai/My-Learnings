@@ -1,6 +1,8 @@
 # Sudoku (in `My-Learnings/Sudoku`)
 
-> **⚡️ This project is COMPLETELY VIBE CODED.**  
+> [!Note]
+> **⚡️ This project is COMPLETELY VIBE CODED.**
+> 
 > You'll find it in the repo [`ysathyasai/My-Learnings`](https://github.com/ysathyasai/My-Learnings), under the `Sudoku` folder.
 
 A feature-rich Sudoku game for the terminal, written in Python. Includes colorful board display, achievements, high score tracking, hints, note-taking, save/load capability, undo/redo, and more.
